@@ -1,0 +1,61 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="Login">Логин</v:String>
+    <v:String x:Key="Password">Пароль</v:String>
+    <v:String x:Key="RepeatPassword">Повторите пароль</v:String>
+    <v:String x:Key="ChooseCountry">Выберите страну</v:String>
+    <v:String x:Key="ChoosePicture">Выберите картинку</v:String>
+
+    <v:String x:Key="Return">Назад</v:String>
+    <v:String x:Key="RussiaCountry">Россия</v:String>
+    <v:String x:Key="BelarusCountry">Беларусь</v:String>
+    <v:String x:Key="UkraineCountry">Украина</v:String>
+    <v:String x:Key="UserNameException">Имя пользователя занято!</v:String>
+    <v:String x:Key="FieldsException">Заполните все поля!</v:String>
+    <v:String x:Key="PasswordNotSameException">Пароли не совпадают!</v:String>
+    <v:String x:Key="PictureException">Выберите картинку профиля!</v:String>
+    <v:String x:Key="SuccesNotException">Регистрация прошла успешно!</v:String>
+    <v:String x:Key="UserNameNotExistsException">Неверное имя пользователя или пароль!</v:String>
+    <v:String x:Key="PasswordException">Неверное имя пользователя или пароль!</v:String>
+
+
+    <v:String x:Key="LoginButton">Войти</v:String>
+    <v:String x:Key="RegisterButton">Регистрация</v:String>
+    <v:String x:Key="StartButton">Начать</v:String>
+    <v:String x:Key="RestartButton">Рестарт</v:String>
+    <v:String x:Key="ProfileButton">Профиль</v:String>
+    <v:String x:Key="GameButton">Играть</v:String>
+    <v:String x:Key="RankingButton">Рейтинг</v:String>
+    <v:String x:Key="CreateButton">Создать текст</v:String>
+    <v:String x:Key="DifficultyLabel">Выберите сложность:</v:String>
+    <v:String x:Key="LanguageLabel">Выберите язык:</v:String>
+    <v:String x:Key="TimeTextBox">Время:</v:String>
+    <v:String x:Key="WordsCounterTextBox">Количество слов:</v:String>
+    <v:String x:Key="ProfilePage_Login">Имя</v:String>
+    <v:String x:Key="ProfilePage_Country">Страна</v:String>
+    <v:String x:Key="ProfilePage_ChangeImage">Изменить</v:String>
+    <v:String x:Key="ProfilePage_ChangePassword">Изменить пароль</v:String>
+    <v:String x:Key="ProfilePage_InputOldPassword">Введите старый пароль:</v:String>
+    <v:String x:Key="ProfilePage_InputNewPassword">Введите новый пароль:</v:String>
+    <v:String x:Key="ProfilePage_RepeatNewPassword">Подтвердите новый пароль:</v:String>
+    <v:String x:Key="SubmitPasswordChange">Сменить пароль</v:String>
+    <v:String x:Key="RussianLanguage">Русский</v:String>
+    <v:String x:Key="EnglishLanguage">Английский</v:String>
+    <v:String x:Key="OtherLanguage">Другой</v:String>
+    <v:String x:Key="GameID_ListBox">ID</v:String>
+    <v:String x:Key="UserName_ListBox">Имя пользователя</v:String>
+    <v:String x:Key="TextName_ListBox">Текст</v:String>
+    <v:String x:Key="TextLanguage_ListBox">Язык</v:String>
+    <v:String x:Key="Result_ListBox">Результат</v:String>
+    <v:String x:Key="ApplyButton_ProfilePage">Применить</v:String>
+    <v:String x:Key="100TextName">Начальный</v:String>
+    <v:String x:Key="300TextName">Продвинутый</v:String>
+    <v:String x:Key="500TextName">Мастер</v:String>
+    <v:String x:Key="AllLanguages">Все</v:String>
+    <v:String x:Key="Guide">Вводите слова через пробел.</v:String>
+    <v:String x:Key="AfterGuide">После того как закончите, введите название текста, язык текста и нажмите на кнопку "Создать".</v:String>
+    <v:String x:Key="TextNameInput">Введите название текста</v:String>
+    <v:String x:Key="TextLanguageChoose">Выберите язык текста</v:String>
+    
+</ResourceDictionary>
